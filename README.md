@@ -6,7 +6,7 @@
 
 🍻 Empreendi criando uma cadeia logística compartilhada para barris de chope, o que resultou em uma redução de 40% nos custos logísticos de cervejarias artesanais;
 
-👨🏻‍💻 Descobri a minha paixão pelo mundo dos dados e estou migrando para a área de analytics engineering; 
+👨🏻‍💻 Descobri a minha paixão pelo mundo dos dados e estou migrando para a área de analytics engineer; 
 
 💡  Dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;
 
